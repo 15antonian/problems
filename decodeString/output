@@ -1,0 +1,32 @@
+newStringhoel
+newStringhloe
+newStringhelo
+newStringhoel
+newStringhloe
+0
+currentString: Hello
+newString: oHell
+rotated: lloHe
+sizes: 5 5
+False
+currentString: oHell
+newString: loHel
+rotated: lloHe
+sizes: 5 5
+False
+currentString: loHel
+newString: lloHe
+rotated: lloHe
+sizes: 5 5
+True
+currentString: lloHe
+newString: elloH
+rotated: lloHe
+sizes: 5 5
+False
+currentString: elloH
+newString: Hello
+rotated: lloHe
+sizes: 5 5
+False
+0

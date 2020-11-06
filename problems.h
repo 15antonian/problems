@@ -7,4 +7,5 @@
 #include <algorithm>
 #include <locale>
 #include <ctype.h>
+#include <stack>
 using namespace std;
